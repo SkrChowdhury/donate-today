@@ -81,7 +81,7 @@ p{
   
 }
 
-::placeholder {
+#donate-today ::placeholder {
     color: #B3B3B3;
     opacity: 1;
     font-size: 18px;
@@ -148,6 +148,39 @@ p{
     height: 25%;
 }
 
+
+#email-subscription{
+    background-color: #FFF4D6;
+    width: 60%;
+    padding: 8%;
+    margin-left: 12%;
+    margin-bottom: 10%;
+}
+
+
+#email-subscription input{
+    width: 300px;
+    padding: 2.5%;
+    margin-left: 25%;
+    border-radius: 5%;
+    background-color: #D9D9D9;
+    border: none;
+}
+
+
+#email-subscription a {
+    font-size: 16px;
+    margin-left: 0;
+}
+
+
+
+#email-subscription ::placeholder {
+    color: #B3B3B3;
+    font-size: 18px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+}
 
 footer{
     text-align: center;
