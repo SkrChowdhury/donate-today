@@ -1,0 +1,40 @@
+body{
+
+font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+
+h1{
+    font-size: 65px;
+    font-weight: 900;
+    color: white;
+    margin: 0;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 70px;
+}
+
+#banner{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 200px;
+}
+
+.button-color{
+    background-color:#FF5959;
+}
+
+.button {
+    text-decoration: none;
+    padding: 20px 20px;
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
