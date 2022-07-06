@@ -148,3 +148,19 @@ p{
     height: 25%;
 }
 
+
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 10px;
+}
+footer h5{
+    font-size: 36px;
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+}
+footer p{
+    font-size: 14px;
+    color: #D9DBE1;
+}
+
