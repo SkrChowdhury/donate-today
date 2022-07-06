@@ -34,9 +34,7 @@ p{
     color: #707070;
 }
 
-
-
-
+/* ----------Banner Section CSS---------- */
 #banner{
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -64,7 +62,7 @@ p{
 
 
 
-
+/* ----------Donate Today CSS---------- */
 #donate-today{
     text-align: center;
     padding: 50px 80px;
@@ -114,7 +112,7 @@ p{
     color: #FF5959;
 }
 
-
+/* ----------Donate Plan CSS---------- */
 #donate-plan{
     margin-bottom: 80px
 }
@@ -150,6 +148,8 @@ p{
 }
 
 
+
+/* ---------Get Our Update CSS---------- */
 #email-subscription{
     background-color: #FFF4D6;
     width: 60%;
@@ -184,6 +184,8 @@ p{
 }
 
 
+
+/* ----------Thank You Section CSS---------- */
 #thank-you{
     padding: 6%;
     text-align: center;
@@ -203,6 +205,7 @@ p{
 }
 
 
+/* ----------Volunter Section CSS---------- */
 #volunteer{
     display: flex;
     width: 90%;
@@ -231,7 +234,7 @@ p{
     margin-bottom: 8%;
 }
 
-
+/* ----------Footer CSS---------- */
 footer{
     text-align: center;
     background-color: #0B0D17;
