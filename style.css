@@ -187,6 +187,7 @@ p{
 #thank-you{
     padding: 6%;
     text-align: center;
+    margin: 0 60px;
 }
 #thank-you p{
     color: #707070;
@@ -197,9 +198,10 @@ p{
 .thank-you-div-width {
     font-size: 30px;
     color: #707070;
- border: #FF5959;
+    border: #FF5959;
     border-radius: 10px;
 }
+
 
 footer{
     text-align: center;
@@ -208,6 +210,7 @@ footer{
 }
 footer h5{
     font-size: 36px;
+    margin-bottom: 0;
     color: #FF5959;
     font-family: 'Lobster', cursive;
 }
